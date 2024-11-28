@@ -1,0 +1,1 @@
+import{_ as a,c as o,a as s,o as t}from"./index-Di3TIvtp.js";const n={},c={class:"page-about"};function r(_,e){return t(),o("main",c,e[0]||(e[0]=[s("h1",null,"This is an about page",-1)]))}const l=a(n,[["render",r]]);export{l as default};
