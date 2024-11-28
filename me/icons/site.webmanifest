@@ -1,0 +1,21 @@
+{
+  "name": "Max Emblem",
+  "short_name": "ME",
+  "icons": [
+    {
+      "src": "/assets/icons/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/icons/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#ebaf1a",
+  "background_color": "#ebaf1a",
+  "display": "standalone"
+}
