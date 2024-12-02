@@ -1,0 +1,1 @@
+import{aa as r,W as n}from"./index-xiEWGraw.js";const t=o=>{const u=r(o)?o:[o],s=[];return u.forEach(e=>{var a;r(e)?s.push(...t(e)):n(e)&&((a=e.component)!=null&&a.subTree)?s.push(e,...t(e.component.subTree)):n(e)&&r(e.children)?s.push(...t(e.children)):s.push(e)}),s};export{t as f};
